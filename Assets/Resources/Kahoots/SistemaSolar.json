@@ -1,0 +1,39 @@
+{
+  "titulo": "Sistema solar",
+  "preguntas": [
+    {
+      "tipo": "ABCD",
+      "enunciado": "¿Qué planeta es conocido como el planeta rojo?",
+      "respuestas": [
+        "Marte",
+        "Venus",
+        "Saturno",
+        "Mercurio"
+      ],
+      "respuestaCorrecta": 0,
+      "duracion": 20
+    },
+    {
+      "tipo": "TF",
+      "enunciado": "La Luna es un satélite de la Tierra.",
+      "respuestas": [
+        "True",
+        "False"
+      ],
+      "respuestaCorrecta": 0,
+      "duracion": 20
+    },
+    {
+      "tipo": "ABCD",
+      "enunciado": "¿Qué planeta tiene la Gran Mancha Roja?",
+      "respuestas": [
+        "Saturno",
+        "Júpiter",
+        "Urano",
+        "Neptuno"
+      ],
+      "respuestaCorrecta": 1,
+      "duracion": 20
+    }
+  ]
+}
